@@ -1,0 +1,51 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.12476607" />
+    <property name="INSPECTION_FILTER_HISTORY" value="Duplicated Code" />
+    <property name="JUnit.Splitter.Proportion" value="0.0723192" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="folding" />
+    <property name="LiveContextsPanel[0]" value="0.12730744" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="Alibaba" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SearchEveryWhereHistory" value="短&#10;GetUserVipInfoResponseType&#10;compareTimes&#10;task&#10;TrainMarketingServiceImpl" />
+    <property name="SettingsSearchHistory" value="plugins&#10;live temp&#10;one-line me&#10;live templa&#10;postfix" />
+    <property name="SpringBeansModulesPanel[0]" value="0.12476607" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.6666666" />
+    <property name="android-component-compatibility-check" value="1531299193736" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="157" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.181" value="19" />
+    <property name="file.chooser.recent.files" value="D:/code/trainbookingcommon/pom.xml&#10;D:/code/trainbookingcommon&#10;D:/tool/apache-tomcat-7.0.86&#10;D:/project/spring/dubbo/pom.xml&#10;D:/code/java-demo/pom.xml&#10;C:/Program Files/Git/bin/bash.exe&#10;C:/Program Files/Git/git-bash.exe&#10;D:/code/train_monitorservice/pom.xml&#10;D:/code1/train_marketingservice/pom.xml&#10;D:/code/train_marketingservice&#10;D:/code/train_userservice/pom.xml&#10;D:/tool/apache-tomcat-8.0.12&#10;D:/code/TieyouPayment/pom.xml&#10;D:/code/tyusercoreservice/pom.xml&#10;D:/code/train_commonbiservice/pom.xml&#10;D:/project/future/pom.xml&#10;D:/code/commoncontractgenerate&#10;D:/code/train_marketingservice/pom.xml&#10;D:/project/spring/springboot/pom.xml&#10;D:/code/tyusersubservice/pom.xml&#10;C:/Program Files/Java/jdk1.8.0_121&#10;D:/tool/maven-repository/repository&#10;D:/tool/maven-repository/settings.xml" />
+    <property name="file.gist.reindex.count" value="4852" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.2.30-release-IJ2018.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="D:/code/trainbookingcommon/pom.xml" />
+    <property name="lastTip" value="1" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="selected.color.option.type" value="READONLY_BACKGROUND" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="2.7.2" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>
