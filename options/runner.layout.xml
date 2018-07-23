@@ -544,8 +544,8 @@
         <option name="bottomProportion" value="0.26843658" />
         <option name="defaultIndex" value="4" />
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.051186018" />
-        <option name="rightProportion" value="0.029962547" />
+        <option name="leftProportion" value="0.050561797" />
+        <option name="rightProportion" value="0.034956306" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
